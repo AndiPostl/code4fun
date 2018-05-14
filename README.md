@@ -10,7 +10,7 @@ Pwd:		IOT_Summit_01<br>
 https://blogs.oracle.com/virtualization/install-docker-on-oracle-linux-7-v2
 
 ## Further Links <br>
-https://cloud.oracle.com <br> 
+https://cloud.oracle.com/tryit <br> 
 https://mosquitto.org  Open Source MQTT server <br> 
 https://www.thethingsnetwork.org  LORA network <br> 
 http://owntracks.org <br>
