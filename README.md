@@ -11,7 +11,6 @@ https://blogs.oracle.com/virtualization/install-docker-on-oracle-linux-7-v2
 
 ## Further Links <br>
 https://cloud.oracle.com <br> 
-https://mosquitto.org open source MQTT server <br>  
+https://mosquitto.org  Open Source MQTT server
 https://www.thethingsnetwork.org  LORA network <br> 
-http://owntracks.org <br> 
-
+http://owntracks.org <br>
