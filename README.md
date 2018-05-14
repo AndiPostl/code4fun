@@ -2,8 +2,8 @@
 
 Console: https://console.us-ashburn-1.oraclecloud.com <br>
 Tenant:	houska_obpm<br>
-User:		IOT_Summit<br>
-Pwd:		IOT_Summit_01<br>
+User:	IOT_Summit<br>
+Pw:		IOT_Summit_01<br>
 
 
 ## Install Docker on Oracle Linux 
