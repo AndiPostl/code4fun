@@ -1,7 +1,7 @@
 # code4fun Meetup
 
 Console: https://console.us-ashburn-1.oraclecloud.com <br>
-tenant:	houska_obpm<br>
+Tenant:	houska_obpm<br>
 User:		IOT_Summit<br>
 Pwd:		IOT_Summit_01<br>
 
